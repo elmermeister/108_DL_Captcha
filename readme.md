@@ -36,3 +36,9 @@ background_image_path="captcha bg"
 
 4:bg_rotate_noise_code,![4_bg_rotate_noise_code](https://github.com/masahiro1025/Captcha/blob/master/example_img/4_bg_rotate_noise_code.jpg)
 
+
+
+#### Image_source:
+
+https://www.pexels.com/zh-tw/
+
