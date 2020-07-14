@@ -26,13 +26,13 @@ background_image_path="captcha bg"
 
 #### method:
 
-0:shift_code,![0_shift_code](C:\Users\changhao\Documents\GitHub\Captcha\example_img\0_shift_code.jpg)
+0:shift_code,![0_shift_code](example_img\0_shift_code.jpg)
 
-1:rotate_code,![1_rotate_code](C:\Users\changhao\Documents\GitHub\Captcha\example_img\1_rotate_code.jpg)
+1:rotate_code,![1_rotate_code](example_img\1_rotate_code.jpg)
 
-2:gradient_shift_code,![2_gradient_shift_code](C:\Users\changhao\Documents\GitHub\Captcha\example_img\2_gradient_shift_code.jpg)
+2:gradient_shift_code,![2_gradient_shift_code](example_img\2_gradient_shift_code.jpg)
 
-3:bg_shift_code,![3_bg_shift_code](C:\Users\changhao\Documents\GitHub\Captcha\example_img\3_bg_shift_code.jpg)
+3:bg_shift_code,![3_bg_shift_code](example_img\3_bg_shift_code.jpg)
 
-4:bg_rotate_noise_code,![4_bg_rotate_noise_code](C:\Users\changhao\Documents\GitHub\Captcha\example_img\4_bg_rotate_noise_code.jpg)
+4:bg_rotate_noise_code,![4_bg_rotate_noise_code](example_img\4_bg_rotate_noise_code.jpg)
 
